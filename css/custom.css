@@ -1,0 +1,68 @@
+body {
+	padding-top: 50px;
+	color: #959595;
+	}
+	
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	}
+	
+.feature {
+	background: rgb(69, 146, 247) linear-gradient(to bottom, rgb(100, 145, 240), rgb(153, 190, 240));
+	color: black
+	}
+
+#feature-carousel {
+	min-height: 250px;
+	}
+
+
+	
+	
+	
+.article-intro {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+    	background: rgb(38, 128, 247) linear-gradient(to bottom, rgb(96, 128, 196), rgb(182, 207, 240));
+	color: black
+	
+}
+    
+.footer-blurb-item {
+    padding: 30px;
+	text-align: justify;
+    }
+ 
+	.row p:first-letter {
+		font-size: 2.8em;
+		font-weight: bold;
+		padding-right: 0px;
+		color:red
+	}
+	
+.small-print {
+	background-color: #eee;
+	padding: 30px 0;
+}
+.article-intro:first-letter    {
+    font-weight:bold;
+    font-size: 2.8em;
+	color:red;
+	padding-bottom: 10px;
+   
+}
+.feature,
+.page-intro,
+.article-intro,
+.footer-blurb,
+.small-print {
+	text-align:center;
+
+	
+	
+
+
+	}
